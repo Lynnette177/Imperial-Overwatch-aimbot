@@ -1,5 +1,11 @@
 # Overwatch-aimbot
 # Auto Update ADDED
+# Old Imperial Cheat SRC
+曾经的IMP 如今加上自动更新的全部源码
+# Buy me a cup of coffee/支持我
+BTC : 16eXZ8zzSgtepvuNHa6xQCgnXXSYgu87tC
+
+# Detail on UC:
 Before use: For learning purposes only, I do not acknowledge or assume any illegal behavior or consequences caused
 Using interception.
 
