@@ -1,4 +1,5 @@
 # Overwatch-aimbot
+# Auto Update ADDED
 Before use: For learning purposes only, I do not acknowledge or assume any illegal behavior or consequences caused
 Using interception.
 
